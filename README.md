@@ -5,9 +5,9 @@ This project provides a FastAPI-based service to analyze sales performance for i
 - [Features](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#-key-features)
 - [Technologies Used](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-technologies-used)
 - [Setup Instructions](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
-- [Running the Application](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
-- [API Endpoints](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
-- [Docker Deployment](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
+- [Running the Application](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#-running-the-application)
+- [API Endpoints](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#-api-endpoints)
+- [Docker Deployment](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#-docker-deployment-1)
 
 
 
