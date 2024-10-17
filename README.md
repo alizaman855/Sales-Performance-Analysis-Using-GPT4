@@ -80,17 +80,22 @@ The application will be available at http://localhost:8000.
 ## 🔍 Individual Sales Representative Performance Analysis
 
 - Endpoint: /api/rep_performance
+- URL: http://localhost:8000/api/rep_performance?rep_id=<id>
 - Method: GET
 - Parameters: rep_id (the unique identifier for the sales representative)
 - Function: Returns detailed performance analysis and feedback for the specified sales representative.
+**Use Case**
+
 ## 📊 Overall Sales Team Performance Summary
 
 - Endpoint: /api/team_performance
+- URL: http://localhost:8000/api/team_performance
 - Method: GET
 - Function: Provides a summary of the sales team's overall performance.
 ## 📅 Sales Performance Trends and Forecasting
 
 - Endpoint: /api/performance_trends
+- URL: http://localhost:8000/api/performance_trends?time_period=<time_period>
 - Method: GET
 - Parameters: time_period (e.g., monthly, quarterly)
 - Function: Analyzes sales data over the specified time period to identify trends and forecast future performance.
