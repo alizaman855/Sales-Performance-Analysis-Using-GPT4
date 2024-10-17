@@ -1,13 +1,13 @@
 # 📊 Sales Performance Analysis API
 This project provides a FastAPI-based service to analyze sales performance for individual representatives and overall team performance. The service includes several endpoints for generating feedback, sales trends, and forecasting, powered by OpenAI's language models.
 # 📑 Table of Contents
-- [Project Overview](#heading-title)
-- [Features](#heading-title)
-- [Technologies Used](#heading-title)
-- [Setup Instructions](#heading-title)
-- [Running the Application](#heading-title)
-- [API Endpoints](#heading-title)
-- [Docker Deployment](#heading-title)
+- [Project Overview](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#-project-overview)
+- [Features](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#-key-features)
+- [Technologies Used](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-technologies-used)
+- [Setup Instructions](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
+- [Running the Application](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
+- [API Endpoints](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
+- [Docker Deployment](https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4/tree/main?tab=readme-ov-file#%EF%B8%8F-setup-instructions)
 
 
 
