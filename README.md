@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 1. 📥 Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/alizaman855/Sales-Performance-Analysis-Using-GPT4
 cd sales-performance-analysis
 ```
 2. 📦 Install the required Python packages:
