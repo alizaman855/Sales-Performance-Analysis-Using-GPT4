@@ -1,13 +1,13 @@
 # 📊 Sales Performance Analysis API
 This project provides a FastAPI-based service to analyze sales performance for individual representatives and overall team performance. The service includes several endpoints for generating feedback, sales trends, and forecasting, powered by OpenAI's language models.
 # 📑 Table of Contents
-[Project Overview](#heading-title)
-[Features](#heading-title)
-[Technologies Used](#heading-title)
-[Setup Instructions](#heading-title)
-[Running the Application](#heading-title)
-[API Endpoints](#heading-title)
-[Docker Deployment](#heading-title)
+- [Project Overview](#heading-title)
+- [Features](#heading-title)
+- [Technologies Used](#heading-title)
+- [Setup Instructions](#heading-title)
+- [Running the Application](#heading-title)
+- [API Endpoints](#heading-title)
+- [Docker Deployment](#heading-title)
 
 
 
